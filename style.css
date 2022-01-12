@@ -1,0 +1,16 @@
+.mukodik{
+    font-size: 30px;
+}
+
+
+.mukodik a{
+    
+    color:green;
+    
+
+}
+.mukodik a:hover:not(.active){
+    
+    color: lime;
+     
+}
